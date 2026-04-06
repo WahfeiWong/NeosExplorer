@@ -5,9 +5,11 @@ NeosExplorer was developed as a viable alternative to the Grasshopper (GH) pedes
 
 Core Algorithm & Modes：
 NeosExplorer shares the same core algorithm as PedSim—the Social Force Model from pedestrian dynamics. Version since 1.2.2 offers two simulation modes:
+
 1. Exploration Mode (using Explorer Simulator):
 This mode operates without path guidance. Upon encountering obstacles, agents identify the nearest feature point within their field of view, adjust their direction, visit points of interest (PoI) for a designated duration, and then proceed toward the destination. PoIs are optional, and multiple PoIs are supported.
 (Note: This mode currently has limited adaptability for complex scenes; regular geometric shapes are recommended for obstacle outlines.)
+
 2.Path Guidance Mode (using Pedestrian Simulator):
 This mode pre-computes the shortest path from the start point to the destination via PoIs using a 2D visibility graph and the A* algorithm, guiding agent behavior accordingly. It includes a reliable movement assurance mechanism suitable for scenes with complex obstacle contours.
 
