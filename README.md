@@ -30,3 +30,9 @@ Key Concept:
 Component Info & Test Environment:
 NeosExplorer is part of the author’s Neos series of Grasshopper components. Upon installation, it appears under the Neos Category and NeosExplorer Subcategory in the Grasshopper toolbar.
 First version tested on: Windows 11, Rhino 8 SR20 (v8.20.25157.13001, 2025-06-06) – Grasshopper 1.0.0008 (2025-06-06).
+![INTRO1 2 2](https://github.com/user-attachments/assets/4c674615-44c6-44e9-ab64-94dbdc93ad2e)
+![GH script](https://github.com/user-attachments/assets/45f9471a-5db7-4be1-a14a-b68b5c41951b)
+![evacuation0](https://github.com/user-attachments/assets/2bfae2be-6ee2-47fa-932c-934224d298f4)
+![pass through bottleneck](https://github.com/user-attachments/assets/61502e8c-3e23-46e0-b992-cd9c3c7af99c)
+
+
